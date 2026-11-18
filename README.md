@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h2>Olá, eu sou [Seu Nome] 👋</h2>
+      <h2>Olá, eu sou Gabriel Koroboff 👋</h2>
       <p>
         Professor de <strong>Desenvolvimento de Sistemas</strong> focado(a) em criar aplicações rápidas, escaláveis e bem estruturadas.
       </p>
