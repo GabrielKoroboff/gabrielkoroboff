@@ -18,9 +18,9 @@
 
 ```yaml
 perfil:
-  nome: "Gabriel Koroboff"
-  local: "São Paulo, Brasil"
-  foco: "Analise de Dados"
+  nome: Gabriel Koroboff
+  local: São Paulo, Brasil
+  foco: Analise de Dados
   
 stack:
   - SQL
@@ -30,7 +30,7 @@ stack:
 status: "Aberto a conexões"
 ```
 
-    </td>
+
   </tr>
 </table>
 
