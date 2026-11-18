@@ -38,4 +38,4 @@ status: "Aberto a conexões"
 
 ### 🚀 Projetos em Destaque
 
-* **DSFusco(https://instagram.com/dsfusco)** — Página social da turma de Desenvolvimento de Sistemas. `(Tech1 • Tech2)`
+* **DSFusco(https://instagram.com/dsfusco)** — Página social da turma de Desenvolvimento de Sistemas.
