@@ -3,7 +3,7 @@
     <td width="60%" valign="top">
       <h2>Olá, eu sou Gabriel Koroboff 👋</h2>
       <p>
-        Professor de <strong>Desenvolvimento de Sistemas</strong> focado(a) em criar aplicações rápidas, escaláveis e bem estruturadas.
+        Professor de <strong>Desenvolvimento de Sistemas</strong> focado em criar aplicações rápidas, escaláveis e bem estruturadas.
       </p>
       <p>
         Atualmente explorando <strong>códigos ao além</strong> e contribuindo com projetos que resolvem problemas reais.
