@@ -1,16 +1,41 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>Olá, eu sou [Seu Nome] 👋</h2>
+      <p>
+        Professor de <strong>Desenvolvimento de Sistemas</strong> focado(a) em criar aplicações rápidas, escaláveis e bem estruturadas.
+      </p>
+      <p>
+        Atualmente explorando <strong>códigos ao além</strong> e contribuindo com projetos que resolvem problemas reais.
+      </p>
+      <p>
+        📫 <strong>Contato:</strong><br>
+        <a href="https://www.linkedin.com/in/gabrielkoroboff/">LinkedIn</a> • 
+        <a href="mailto:gabrielkoroboff@gmail.com">Email</a> • 
+      </p>
+    </td>
+    <td width="40%" valign="top">
 
-<!--
-**GabrielKoroboff/gabrielkoroboff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+perfil:
+  nome: "Gabriel Koroboff"
+  local: "São Paulo, Brasil"
+  foco: "Analise de Dados"
+  
+stack:
+  - SQL
+  - Python
+  - Banco de Dados
 
-Here are some ideas to get you started:
+status: "Aberto a conexões"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **DSFusco(https://instagram.com/dsfusco)** — Página social da turma de Desenvolvimento de Sistemas. `(Tech1 • Tech2)`
